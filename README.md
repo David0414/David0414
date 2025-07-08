@@ -2,58 +2,32 @@
 
 ## 💻 Ingeniero de Software | Desarrollador Backend | Especialista en Automatización
 
-🔧 **¡Me encanta crear sistemas escalables y automatizar procesos!** Estoy especializado en el desarrollo backend, automatización y chatbots, usando tecnologías como Node.js, Python y JavaScript. Siempre estoy aprendiendo y buscando nuevos retos.
+🔧 **Apasionado por crear sistemas escalables y automatizar procesos** usando tecnologías como Node.js, Python y JavaScript. Siempre buscando nuevos desafíos.
 
 📍 **Ubicado en Querétaro, México** 🌎
 
 ---
 
-## 🛠️ Mis Habilidades & Herramientas
-
-**Lenguajes de Programación:**
-- JavaScript
-- NodeJS
-- TypeScript
-- Python
-- C++
-- Java
-- Kotlin
-- PHP
-
-**Herramientas y Frameworks:**
-- React
-- Express.js
-- Django
-- Flask
-- MySQL
-- PostgreSQL
-- MongoDB
-- Docker
-- Git
-
-**Automatización & Chatbots:**
-- whatsapp-web.js
-- Twilio API
-- Telegram Bot API
-
-**Otros:**
-- Meta Ads
-- VS Code
-- Docker (básico)
-- Postman
+# 🌐 **[Visita mi Portafolio](https://portfolio-eight-delta-2t2y5hrwvd.vercel.app/)**
 
 ---
 
-## 🎓 Mi Formación
+## 📎 **Mi CV**  
+[Descargar mi CV](https://drive.google.com/file/d/1qqwR9a8jMZ59p6RS9jsbq4RbgsakAPSs/view?usp=sharing)  
 
-**Universidad Autónoma de Querétaro (UAQ)** – *Ingeniería en Software*  
-**Agosto 2020 – Actualidad**  
-🔍 Estudiante de último año, enfocado en el desarrollo backend, sistemas de automatización y procesamiento de datos.
+---
 
-**Udemy** – *Certificados en Backend y Automatización*  
-✅ **Chatbots con Python y Dialogflow**  
-✅ **Master en Python**  
-✅ **React Native: Construye aplicaciones móviles reales**
+## 🛠️ Herramientas y Tecnologías
+
+- **Lenguajes:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+- **Frameworks & Backend:** ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+- **Bases de Datos:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+- **Automatización & Chatbots:** ![whatsapp-web.js](https://img.shields.io/badge/whatsapp-web.js-25D366?style=flat&logo=whatsapp&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-FF8C00?style=flat&logo=twilio&logoColor=white)
+
+- **Herramientas de Desarrollo:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -61,19 +35,15 @@
 
 ### 🤖 *Chatbot de WhatsApp - Automatización de Procesos*
 - **Tecnologías:** Node.js, whatsapp-web.js
-- **Descripción:** Creación de un sistema de mensajería automatizado para la interacción con clientes y automatización de flujos de ventas.
+- **Descripción:** Sistema de mensajería automatizado para la interacción con clientes y automatización de flujos de ventas.
 
 ### 🏨 *Backend para Reservas de Hotel*
 - **Tecnologías:** Node.js, Express, Prisma ORM
-- **Descripción:** Sistema de gestión de habitaciones y clientes para hotel, con API RESTful y seguridad mediante JWT.
+- **Descripción:** Gestión de habitaciones y clientes para hotel, con API RESTful y seguridad mediante JWT.
 
 ### 🧑‍💻 *API para Gestión de Empleados*
 - **Tecnologías:** Node.js, PostgreSQL
-- **Descripción:** Creación de un panel de administración para gestión de datos de empleados.
-
-### 🌍 *Sistema de Navegación Urbana (A* Pathfinding)*
-- **Tecnologías:** Python, Flask, NetworkX
-- **Descripción:** API para calcular rutas óptimas en Querétaro, manejando obstáculos dinámicos y rutas alternativas.
+- **Descripción:** Panel de administración para gestión de datos de empleados.
 
 ---
 
@@ -91,18 +61,6 @@
 - [LinkedIn](https://www.linkedin.com/in/david-mendoza-perez)  
 - [GitHub](https://github.com/David0414)  
 - [Twitter](https://twitter.com/DavidM_Dev)
-
----
-
-## 📊 Mis Estadísticas en GitHub
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=David0414&show_icons=true&count_private=true&hide=prs&hide_title=true&hide_rank=true&theme=dark)](https://github.com/David0414)
-
----
-
-## 📚 Mis Lenguajes Más Usados
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=David0414&theme=dark&langs_count=10)
 
 ---
 
