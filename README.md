@@ -1,26 +1,109 @@
-# 👋 Hi, I'm David Mendoza Pérez! Welcome to my GitHub! 😄
+# 👋 ¡Hola, soy David Mendoza Pérez! Bienvenido a mi GitHub 😄
 
-## Software Engineer | Backend Developer | Automation Specialist
+## 💻 Ingeniero de Software | Desarrollador Backend | Especialista en Automatización
 
-🔧 I specialize in backend development, process automation, and chatbot integration. I’m passionate about building scalable systems using modern backend frameworks such as Node.js, Python, and JavaScript. I’m always learning and working on exciting projects.
+🔧 **¡Me encanta crear sistemas escalables y automatizar procesos!** Estoy especializado en el desarrollo backend, automatización y chatbots, usando tecnologías como Node.js, Python y JavaScript. Siempre estoy aprendiendo y buscando nuevos retos.
 
-📍 Based in Querétaro, Mexico
-
-### You can find me at 👇:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-mendoza-perez)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/David0414)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/DavidM_Dev)
+📍 **Ubicado en Querétaro, México** 🌎
 
 ---
 
-## About Me 👨‍💻
+## 🛠️ Mis Habilidades & Herramientas
 
-```python
-DavidMendozaPerez = {
-    'pronouns': ['He', 'Him'],
-    'age': '20 years',
-    'languages': ['Spanish', 'English', 'German', 'Japanese'],
-    'nationality': 'Mexican',
-    'occupation': 'Software Engineer | Backend Developer | Automation Specialist',
-    'hobbies': ['Programming', 'Video Games', 'Teamwork']
-}
+**Lenguajes de Programación:**
+- JavaScript
+- NodeJS
+- TypeScript
+- Python
+- C++
+- Java
+- Kotlin
+- PHP
+
+**Herramientas y Frameworks:**
+- React
+- Express.js
+- Django
+- Flask
+- MySQL
+- PostgreSQL
+- MongoDB
+- Docker
+- Git
+
+**Automatización & Chatbots:**
+- whatsapp-web.js
+- Twilio API
+- Telegram Bot API
+
+**Otros:**
+- Meta Ads
+- VS Code
+- Docker (básico)
+- Postman
+
+---
+
+## 🎓 Mi Formación
+
+**Universidad Autónoma de Querétaro (UAQ)** – *Ingeniería en Software*  
+**Agosto 2020 – Actualidad**  
+🔍 Estudiante de último año, enfocado en el desarrollo backend, sistemas de automatización y procesamiento de datos.
+
+**Udemy** – *Certificados en Backend y Automatización*  
+✅ **Chatbots con Python y Dialogflow**  
+✅ **Master en Python**  
+✅ **React Native: Construye aplicaciones móviles reales**
+
+---
+
+## 📈 Proyectos Destacados
+
+### 🤖 *Chatbot de WhatsApp - Automatización de Procesos*
+- **Tecnologías:** Node.js, whatsapp-web.js
+- **Descripción:** Creación de un sistema de mensajería automatizado para la interacción con clientes y automatización de flujos de ventas.
+
+### 🏨 *Backend para Reservas de Hotel*
+- **Tecnologías:** Node.js, Express, Prisma ORM
+- **Descripción:** Sistema de gestión de habitaciones y clientes para hotel, con API RESTful y seguridad mediante JWT.
+
+### 🧑‍💻 *API para Gestión de Empleados*
+- **Tecnologías:** Node.js, PostgreSQL
+- **Descripción:** Creación de un panel de administración para gestión de datos de empleados.
+
+### 🌍 *Sistema de Navegación Urbana (A* Pathfinding)*
+- **Tecnologías:** Python, Flask, NetworkX
+- **Descripción:** API para calcular rutas óptimas en Querétaro, manejando obstáculos dinámicos y rutas alternativas.
+
+---
+
+## 🗣️ Idiomas
+
+- **Español:** Nativo 🇲🇽
+- **Inglés:** C1 🌐
+- **Alemán:** A2 🇩🇪
+- **Japonés:** A1 🇯🇵
+
+---
+
+## 🔗 Conéctate conmigo
+
+- [LinkedIn](https://www.linkedin.com/in/david-mendoza-perez)  
+- [GitHub](https://github.com/David0414)  
+- [Twitter](https://twitter.com/DavidM_Dev)
+
+---
+
+## 📊 Mis Estadísticas en GitHub
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=David0414&show_icons=true&count_private=true&hide=prs&hide_title=true&hide_rank=true&theme=dark)](https://github.com/David0414)
+
+---
+
+## 📚 Mis Lenguajes Más Usados
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=David0414&theme=dark&langs_count=10)
+
+---
+
+¡Gracias por visitar mi perfil! Si tienes alguna pregunta o quieres colaborar, ¡no dudes en contactarme! 😊
