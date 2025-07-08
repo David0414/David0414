@@ -58,9 +58,9 @@
 
 ## 🔗 Conéctate conmigo
 
-- [LinkedIn](https://www.linkedin.com/in/david-mendoza-perez)  
+- [LinkedIn](https://www.linkedin.com/in/david-mendoza-p%C3%A9rez-933627194/)  
 - [GitHub](https://github.com/David0414)  
-- [Twitter](https://twitter.com/DavidM_Dev)
+- [Insta](https://www.instagram.com/david.merez/)
 
 ---
 
